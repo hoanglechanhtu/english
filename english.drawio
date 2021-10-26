@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2021-10-26T09:10:36.622Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" version="15.5.4" etag="fnAcSWaOWbX3LuIdRbn3" type="github"><diagram id="hA7nYfaYkBIjUXooF4bN">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-26T09:25:45.184Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="DMCz5mjcNvDexOUGCYsv" version="15.5.4" type="github">
+  <diagram id="hA7nYfaYkBIjUXooF4bN" name="Page-1">
+    <mxGraphModel dx="1355" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="55Ju3cq9aCfKq7qBWieg-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="55Ju3cq9aCfKq7qBWieg-1" target="55Ju3cq9aCfKq7qBWieg-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="55Ju3cq9aCfKq7qBWieg-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="55Ju3cq9aCfKq7qBWieg-1" target="55Ju3cq9aCfKq7qBWieg-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="55Ju3cq9aCfKq7qBWieg-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="55Ju3cq9aCfKq7qBWieg-1" target="55Ju3cq9aCfKq7qBWieg-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="55Ju3cq9aCfKq7qBWieg-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="55Ju3cq9aCfKq7qBWieg-1" target="55Ju3cq9aCfKq7qBWieg-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="55Ju3cq9aCfKq7qBWieg-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="55Ju3cq9aCfKq7qBWieg-1" target="55Ju3cq9aCfKq7qBWieg-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="55Ju3cq9aCfKq7qBWieg-13" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="55Ju3cq9aCfKq7qBWieg-1" target="55Ju3cq9aCfKq7qBWieg-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="55Ju3cq9aCfKq7qBWieg-1" value="Controversial" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="55Ju3cq9aCfKq7qBWieg-2" value="Contentious" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="55Ju3cq9aCfKq7qBWieg-4" value="Disputed" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="55Ju3cq9aCfKq7qBWieg-6" value="Dubious" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="55Ju3cq9aCfKq7qBWieg-8" value="Questionable" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="55Ju3cq9aCfKq7qBWieg-10" value="Uncertain" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="55Ju3cq9aCfKq7qBWieg-12" value="Controversy" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
